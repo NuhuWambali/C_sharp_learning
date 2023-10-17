@@ -1,0 +1,14 @@
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\bin\Debug\net6.0\SecondExample.exe
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\bin\Debug\net6.0\SecondExample.deps.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\bin\Debug\net6.0\SecondExample.runtimeconfig.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\bin\Debug\net6.0\SecondExample.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\bin\Debug\net6.0\SecondExample.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\obj\Debug\net6.0\SecondExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\obj\Debug\net6.0\SecondExample.AssemblyInfoInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\obj\Debug\net6.0\SecondExample.AssemblyInfo.cs
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\obj\Debug\net6.0\SecondExample.csproj.CoreCompileInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\obj\Debug\net6.0\SecondExample.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\obj\Debug\net6.0\refint\SecondExample.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\obj\Debug\net6.0\SecondExample.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\obj\Debug\net6.0\SecondExample.genruntimeconfig.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\SecondExample\SecondExample\obj\Debug\net6.0\ref\SecondExample.dll
