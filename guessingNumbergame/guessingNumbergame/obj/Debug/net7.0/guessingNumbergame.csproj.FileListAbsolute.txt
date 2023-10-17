@@ -1,0 +1,14 @@
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\bin\Debug\net7.0\guessingNumbergame.exe
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\bin\Debug\net7.0\guessingNumbergame.deps.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\bin\Debug\net7.0\guessingNumbergame.runtimeconfig.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\bin\Debug\net7.0\guessingNumbergame.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\bin\Debug\net7.0\guessingNumbergame.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\obj\Debug\net7.0\guessingNumbergame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\obj\Debug\net7.0\guessingNumbergame.AssemblyInfoInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\obj\Debug\net7.0\guessingNumbergame.AssemblyInfo.cs
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\obj\Debug\net7.0\guessingNumbergame.csproj.CoreCompileInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\obj\Debug\net7.0\guessingNumbergame.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\obj\Debug\net7.0\refint\guessingNumbergame.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\obj\Debug\net7.0\guessingNumbergame.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\obj\Debug\net7.0\guessingNumbergame.genruntimeconfig.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\guessingNumbergame\guessingNumbergame\obj\Debug\net7.0\ref\guessingNumbergame.dll
