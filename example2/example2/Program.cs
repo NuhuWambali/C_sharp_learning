@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Numerics;
+
 namespace MyProgram
 {
     class Program
@@ -12,6 +14,8 @@ namespace MyProgram
             int myAge = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("thank you for your response");
             Console.WriteLine("Your name is " + myName + " and your age is " + myAge);
+            bool isCSharpFun = true;
+            Console.WriteLine(isCSharpFun);
         }
     }
 }
