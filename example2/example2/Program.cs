@@ -9,9 +9,9 @@ namespace MyProgram
             Console.WriteLine("What is your name ? ");
             string myName = Console.ReadLine();
             Console.WriteLine("What is your age ?");
-            string myAge = Console.ReadLine();
+            int myAge = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("thank you for your response");
-            Console.WriteLine("Your name is " + myName + " and yur age is " + myAge);
+            Console.WriteLine("Your name is " + myName + " and your age is " + myAge);
         }
     }
 }
