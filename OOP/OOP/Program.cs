@@ -65,8 +65,9 @@ namespace Program
 }
 
 */
+//inheritance
 
-
+/*
 using System;
 namespace Program
 {
@@ -94,4 +95,50 @@ namespace Program
             myCar.Honk();
         }
     }
+}
+
+*/
+
+using System;
+namespace Program
+{
+    class Animal
+    {
+      public void AnimalSound()
+        {
+            Console.WriteLine("animal is making sound");
+        }
+    }
+
+    class Cat : Animal
+    {
+       public void AnimalSound()
+        {
+            Console.WriteLine("Meeeau");
+        }
+    }
+
+    class Dog : Animal
+    {
+        public void AnimalSound()
+        {
+            Console.WriteLine("Hwoooh Hwoooh");
+        }
+
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Animal myAnimal = new Animal();
+            Animal myCat = new Cat();
+            Animal myDog = new Dog();
+
+            myAnimal.AnimalSound();
+            myCat.AnimalSound();
+            myDog.AnimalSound();
+        }
+    }
+  
 }

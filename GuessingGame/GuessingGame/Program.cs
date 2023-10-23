@@ -29,7 +29,18 @@ namespace Program
             {
                 Console.WriteLine(@" Enter a guessing number");
                 int guessingNumber=Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine(guessingNumber + " my guessing number");
+                switch (guessingNumber)
+                {
+                    case 0:
+                        Console.WriteLine();
+                        break;
+                    case 1:
+                        Console.WriteLine();
+                        break;
+                    case 3:
+                        Console.WriteLine();
+                        break;
+                }
                 Console.WriteLine(num + " comp guessed number");
             }
             else
@@ -37,8 +48,7 @@ namespace Program
                 Console.WriteLine("good bye");
             }
 
-
-
+           
 
         }
     }

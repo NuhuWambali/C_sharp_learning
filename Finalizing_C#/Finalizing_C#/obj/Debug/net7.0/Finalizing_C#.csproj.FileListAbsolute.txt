@@ -1,0 +1,14 @@
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\bin\Debug\net7.0\Finalizing_C#.exe
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\bin\Debug\net7.0\Finalizing_C#.deps.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\bin\Debug\net7.0\Finalizing_C#.runtimeconfig.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\bin\Debug\net7.0\Finalizing_C#.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\bin\Debug\net7.0\Finalizing_C#.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\obj\Debug\net7.0\Finalizing_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\obj\Debug\net7.0\Finalizing_C#.AssemblyInfoInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\obj\Debug\net7.0\Finalizing_C#.AssemblyInfo.cs
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\obj\Debug\net7.0\Finalizing_C#.csproj.CoreCompileInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\obj\Debug\net7.0\Finalizing_C#.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\obj\Debug\net7.0\refint\Finalizing_C#.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\obj\Debug\net7.0\Finalizing_C#.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\obj\Debug\net7.0\Finalizing_C#.genruntimeconfig.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\Finalizing_C#\Finalizing_C#\obj\Debug\net7.0\ref\Finalizing_C#.dll

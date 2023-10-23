@@ -1,0 +1,14 @@
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\bin\Debug\net6.0\typeConvertion.exe
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\bin\Debug\net6.0\typeConvertion.deps.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\bin\Debug\net6.0\typeConvertion.runtimeconfig.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\bin\Debug\net6.0\typeConvertion.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\bin\Debug\net6.0\typeConvertion.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\obj\Debug\net6.0\typeConvertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\obj\Debug\net6.0\typeConvertion.AssemblyInfoInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\obj\Debug\net6.0\typeConvertion.AssemblyInfo.cs
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\obj\Debug\net6.0\typeConvertion.csproj.CoreCompileInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\obj\Debug\net6.0\typeConvertion.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\obj\Debug\net6.0\refint\typeConvertion.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\obj\Debug\net6.0\typeConvertion.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\obj\Debug\net6.0\typeConvertion.genruntimeconfig.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\typeConvertion\typeConvertion\obj\Debug\net6.0\ref\typeConvertion.dll
