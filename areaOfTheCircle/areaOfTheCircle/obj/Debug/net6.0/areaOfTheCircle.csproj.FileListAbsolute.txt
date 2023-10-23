@@ -1,0 +1,14 @@
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\bin\Debug\net6.0\areaOfTheCircle.exe
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\bin\Debug\net6.0\areaOfTheCircle.deps.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\bin\Debug\net6.0\areaOfTheCircle.runtimeconfig.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\bin\Debug\net6.0\areaOfTheCircle.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\bin\Debug\net6.0\areaOfTheCircle.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\obj\Debug\net6.0\areaOfTheCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\obj\Debug\net6.0\areaOfTheCircle.AssemblyInfoInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\obj\Debug\net6.0\areaOfTheCircle.AssemblyInfo.cs
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\obj\Debug\net6.0\areaOfTheCircle.csproj.CoreCompileInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\obj\Debug\net6.0\areaOfTheCircle.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\obj\Debug\net6.0\refint\areaOfTheCircle.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\obj\Debug\net6.0\areaOfTheCircle.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\obj\Debug\net6.0\areaOfTheCircle.genruntimeconfig.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\areaOfTheCircle\areaOfTheCircle\obj\Debug\net6.0\ref\areaOfTheCircle.dll

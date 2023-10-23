@@ -9,7 +9,8 @@ namespace TypeConversionAplication
             int i;
             //cast double to int
             i = (int)d;
-            Console.WriteLine(i);
+            Console.WriteLine("converted number is  \a "+i);
+
             Console.ReadKey();
         }
     }
