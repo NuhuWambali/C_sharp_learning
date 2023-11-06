@@ -1,0 +1,14 @@
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\bin\Debug\net6.0\methodC#.exe
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\bin\Debug\net6.0\methodC#.deps.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\bin\Debug\net6.0\methodC#.runtimeconfig.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\bin\Debug\net6.0\methodC#.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\bin\Debug\net6.0\methodC#.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\obj\Debug\net6.0\methodC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\obj\Debug\net6.0\methodC#.AssemblyInfoInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\obj\Debug\net6.0\methodC#.AssemblyInfo.cs
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\obj\Debug\net6.0\methodC#.csproj.CoreCompileInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\obj\Debug\net6.0\methodC#.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\obj\Debug\net6.0\refint\methodC#.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\obj\Debug\net6.0\methodC#.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\obj\Debug\net6.0\methodC#.genruntimeconfig.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodC#\methodC#\obj\Debug\net6.0\ref\methodC#.dll
