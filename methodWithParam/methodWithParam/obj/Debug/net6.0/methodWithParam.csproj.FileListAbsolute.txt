@@ -1,0 +1,14 @@
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\bin\Debug\net6.0\methodWithParam.exe
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\bin\Debug\net6.0\methodWithParam.deps.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\bin\Debug\net6.0\methodWithParam.runtimeconfig.json
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\bin\Debug\net6.0\methodWithParam.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\bin\Debug\net6.0\methodWithParam.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\obj\Debug\net6.0\methodWithParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\obj\Debug\net6.0\methodWithParam.AssemblyInfoInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\obj\Debug\net6.0\methodWithParam.AssemblyInfo.cs
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\obj\Debug\net6.0\methodWithParam.csproj.CoreCompileInputs.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\obj\Debug\net6.0\methodWithParam.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\obj\Debug\net6.0\refint\methodWithParam.dll
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\obj\Debug\net6.0\methodWithParam.pdb
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\obj\Debug\net6.0\methodWithParam.genruntimeconfig.cache
+C:\Users\Nuhu\dotnet_Projects\source\repos\C_sharp_learning\methodWithParam\methodWithParam\obj\Debug\net6.0\ref\methodWithParam.dll
